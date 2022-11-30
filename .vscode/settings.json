@@ -1,0 +1,28 @@
+{
+    "task.problemMatchers.neverPrompt": false,
+    "shellLauncher.shells.windows": [
+
+        {
+            "shell": "C:\\cygwin64\\bin\\bash.exe",
+            "args": ["--login"],
+            "label": "Cygwin Bash",
+            "launchName": "Cygwin Bash"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "label": "PowerShell"
+        },
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git bash"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\bash.exe",
+            "label": "WSL Bash"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "label": "cmd"
+        },
+    ]
+}

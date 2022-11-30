@@ -1,0 +1,4 @@
+--2022-11-29 01:39:21--  https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh
+Resolving raw.github.com (raw.github.com)... 185.199.111.133, 185.199.108.133, 185.199.110.133, ...
+Connecting to raw.github.com (raw.github.com)|185.199.111.133|:443... connected.
+Unable to establish SSL connection.
